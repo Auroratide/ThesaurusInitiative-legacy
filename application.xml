@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.7">
+  <id>ThesaurusInitiative</id>
+  <versionNumber>0.13</versionNumber>
+  <filename>ThesaurusInitiative</filename>
+  <name>Thesaurus Initiative</name>
+  <initialWindow>
+    <title>Thesaurus Initiative</title>
+    <content>ThesaurusInitiative.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <versionLabel>0.13.0706</versionLabel>
+  <icon>
+    <image16x16>icons/ThesaurusInitiative16.png</image16x16>
+    <image32x32>icons/ThesaurusInitiative32.png</image32x32>
+    <image48x48>icons/ThesaurusInitiative48.png</image48x48>
+    <image128x128>icons/ThesaurusInitiative128.png</image128x128>
+  </icon>
+  <description>The Thesaurus Initiative is a tool meant to help you develop a stronger vocabulary</description>
+  <copyright>2013 All Rights Reserved</copyright>
+</application>
